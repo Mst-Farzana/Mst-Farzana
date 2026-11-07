@@ -82,7 +82,7 @@
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 Learning **AI/ML integrations** in web apps
 - 💬 Ask me about **Vue.js, Laravel, TypeScript**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **farzanap1531994@email.com**
 - ⚡ Fun fact: I love building **pixel-perfect UIs**!
 
 ---
