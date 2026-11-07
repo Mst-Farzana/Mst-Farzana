@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mst-Farzana Akter
 
-> 💻 **Full Stack Developer** | Laravel • Vue.js • TypeScript • React • Next.js
+> 💻 **Full Stack Developer** | Laravel • Vue.js • Nuxt.js•  TypeScript • React • Next.js
 > 
 > 🚀 Passionate about building modern, scalable web applications with clean code and beautiful UI.
 
@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
@@ -74,12 +75,14 @@
 | 4 | [**protesk-saas**](https://github.com/Mst-Farzana/protesk-saas) | Full-stack ecommerce SaaS with Stripe & AI chatbot | Vue |
 | 5 | [**Appzone-Platform**](https://github.com/Mst-Farzana/Appzone-Platform) | AI-powered full-stack platform | TypeScript |
 | 6 | [**figma-convert-project**](https://github.com/Mst-Farzana/figma-convert-project) | Pixel-perfect Next.js & Tailwind CSS v4 app | TypeScript |
+| 7 | [**Frm-scss-project**](https://github.com/Mst-Farzana/Frm-scss-project) | Advanced SCSS techniques with Next.js | TypeScript |
+| 8 | [**Real-Estate-Project**](https://github.com/Mst-Farzana/Real-Estate-Project) | Full-stack real estate platform | PHP |
 
 ---
 
 ## 🎯 What I Do
 
-- 🔭 Currently working on **Full Stack Web Applications**
+- 🔭 Working on **Full Stack Web Applications**
 - 🌱 Learning **AI/ML integrations** in web apps
 - 💬 Ask me about **Vue.js, Laravel, TypeScript**
 - 📫 Reach me at: **farzanap1531994@email.com**
